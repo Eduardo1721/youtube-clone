@@ -16,10 +16,10 @@ export const logo = 'https://www.shutterstock.com/shutterstock/videos/1022031049
 
 export const  categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Java Free Course', icon: <CodeIcon />, },
+  { name: 'Amigos Code', icon: <CodeIcon />, },
   { name: 'Coding Tips and Tricks', icon: <CodeIcon />, },
-  { name: 'ReactJS Free Course', icon: <CodeIcon />, },
-  { name: 'NextJS', icon: <CodeIcon />, },
+  { name: 'Coding', icon: <CodeIcon />, },
+  { name: 'Bro Code', icon: <CodeIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
