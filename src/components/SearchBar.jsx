@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { useNavigate } from "react-router-dom";
 import { Paper, IconButton } from '@mui/material';
 import SearchIcon from '@mui/icons-material/Search';
+import { lightBlue } from '@mui/material/colors';
 
 const SearchBar = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -36,7 +37,7 @@ const SearchBar = () => {
         onChange={(e) => setSearchTerm(e.target.value)}
       />
       <IconButton type='submit' sx={{ p: '10px', color: 'red' }} aria-label='search'>
-        <SearchIcon />
+      <SearchIcon htmlColor="lightblue" />
       </IconButton>
     </Paper>
   );

@@ -12,13 +12,13 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
 
-export const logo = 'https://i.ibb.co/s9Qys2j/logo.png';
+export const logo = 'https://www.shutterstock.com/shutterstock/videos/1022031049/thumb/1.jpg?ip=x480';
 
 export const  categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Free Course', icon: <CodeIcon />, },
-  { name: 'Coding', icon: <CodeIcon />, },
-  { name: 'ReactJS', icon: <CodeIcon />, },
+  { name: 'Java Free Course', icon: <CodeIcon />, },
+  { name: 'Coding Tips and Tricks', icon: <CodeIcon />, },
+  { name: 'ReactJS Free Course', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
